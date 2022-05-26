@@ -9,9 +9,9 @@ function Menu() {
     <>
       <Container fluid className="bgcolorintem">
         <Row className="colapse">
-          <Col> <a className="item" href="E-Company.">E-Company</a></Col>
+          <Col> <a className="item" href="#E-Company.">E-Company</a></Col>
           <Col className="itens" >
-            <a className="item" href="#">
+            <a className="item" href="#home">
               Inicio
             </a>
             <a className="item" href="#sobre">

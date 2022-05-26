@@ -14,7 +14,7 @@ function Menu() {
             <a className="item" href="#">
               Inicio
             </a>
-            <a className="item" href="sobre">
+            <a className="item" href="#sobre">
               Sobre
             </a>
             <Button href="mailto:patrikybrito@gmail.com">Contato</Button>

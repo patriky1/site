@@ -15,8 +15,8 @@ export function Grid() {
   return (
     <Container fluid>
       <Row>
-        <Col lg={6}>
-          <img className="imagemgrid" src={Imggrid} alt="..." />
+        <Col className="mt-5" lg={6}>
+          <img className="imagemgrid " src={Imggrid} alt="..." />
         </Col>
         <Col className="center" lg={6}>
           <p className="titulo">

@@ -25,7 +25,9 @@ function Footer() {
                 
             </Row>
             <Row>
-            <p className="direitos" className="direitos m-5"> © Todos os direitos reservados, 2022.</p>
+              <Col>
+            <p  className="direitos"> © Todos os direitos reservados, 2022.</p>
+            </Col>
             </Row>
         </Container>
       </>

@@ -1,0 +1,65 @@
+
+  
+  .bgcolorintem{
+    background-color: transparent;
+    
+  }
+  .itens{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    
+  }
+  .item{
+    padding: 2%;
+    text-decoration: none;
+    color: white;
+  }
+  
+
+  @media screen and (max-width: 680px) {
+  .itens{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  }.logoimage {
+  margin-top: 2%;
+  margin-left: 5%;
+  overflow: visible;
+  
+  width:100px;
+  height: auto;
+}
+
+
+.bgcolorintem{
+  background-color: transparent;
+}
+.itens{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+.item{
+  padding: 2%;
+  text-decoration: none;
+  color: white;
+}
+
+
+.item:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+@media screen and (max-width: 680px) {
+.itens{ 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+}

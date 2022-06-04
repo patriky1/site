@@ -28,6 +28,7 @@ export function GridPerfil() {
               help you solve your problems in the digital environment,<br></br> whatever
               your demand
             </p>
+            
           </Col>
         </Row>
       </Container>

@@ -1,0 +1,59 @@
+.logoimage {
+  margin-top: 2%;
+  margin-left: 5%;
+  overflow: visible;
+  
+  width:100px;
+  height: auto;
+}
+.logocontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+@media screen and (max-width: 680px) {
+  .mobileresize{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  }
+.me-auto :hover{
+  border-bottom: 2px solid rgb(255, 0, 0) !important;
+  transition-duration: 1s;
+}
+
+
+
+.bgcolorintem{
+  background-color: transparent;
+}
+.itens{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
+.item{
+  padding: 2%;
+  text-decoration: none;
+  color: white;
+}
+
+
+.item:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+@media screen and (max-width: 680px) {
+.itens{ 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+}

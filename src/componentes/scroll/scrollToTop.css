@@ -1,0 +1,23 @@
+.fab-container {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+}
+
+.srcollicon {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background: #ffffff;
+    box-shadow: 8px 8px 4px #00074d3b;
+}
+
+.scroolbtn {
+    width: 50px;
+    height: 50px;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

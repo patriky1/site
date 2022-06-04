@@ -1,0 +1,13 @@
+.CarouselImg{
+
+padding: 0px;
+
+
+object-fit: fill;
+border:none
+
+ }
+ .carouselwhidth{
+     overflow-x: hidden;
+ }
+

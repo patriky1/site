@@ -1,0 +1,30 @@
+.imagemlogo {
+  margin-bottom: 4%;
+  width: 100px;
+  height: auto;
+}
+.socialicones {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.marginl{
+    margin-left: 5%;
+    text-decoration: none;
+  }
+
+  .colorbranco{
+    color: white;
+  }
+
+  
+@media screen and (max-width: 680px) {
+  .mobileresize{ 
+    margin-bottom: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  }

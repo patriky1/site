@@ -1,0 +1,225 @@
+.imagemgrid {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  background-color: white;
+  border-radius: 100%;
+
+}
+
+.grid{
+  display: flex;
+  margin: auto;
+}
+.margens {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.imagecontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.imagemgrid1 {
+  width: 80%;
+  height: auto;
+}
+.imagemgrid2 {
+  width: 400px;
+  height: auto;
+  position: relative;
+}
+.imagemBG {
+  box-shadow: 0px -4px 0px 0px rgba(255, 255, 255, 0.1);
+  background-image: url("./imagem_grid/background.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center;
+
+
+
+  text-align: center;
+  margin-top: 5%;
+  background-size: cover;
+}
+
+.bgsize{
+  width: auto;
+  height: 800px;
+}
+.title {
+  font-size: 150%;
+  text-align: left;
+}
+.texto {
+  font-size: 100%;
+  text-align: left;
+}
+@media screen and (max-width: 680px) {
+  .title .texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  } }
+.textstyle {
+  margin: 5%;
+  color: white;
+}
+
+.textored {
+  color: red;
+  text-align: justify;
+}
+
+.textobranco {
+  color: white;
+  margin-bottom: 2%;
+}
+.margemgeral{
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+.nomecurso {
+  color: white;
+  margin-bottom: 15%;
+}
+.colortext {
+  color: white;
+  padding: 2%;
+}
+.textoamarelo {
+  color: yellow;
+}
+
+@keyframes progress-animation {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+.container1 {
+  height: 25px;
+  background: transparent;
+  position: relative;
+  margin-bottom: 5%;
+  border-radius: 6px;
+}
+.progress-bar1 {
+  position: relative;
+  height: 100%;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%);
+  animation: progress-animation1 5s infinite;
+  border-radius: 6px;
+}
+
+@keyframes progress-animation1 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
+.container2 {
+  height: 25px;
+  background: transparent;
+  position: relative;
+  margin-bottom: 5%;
+  border-radius: 6px;
+}
+.progress-bar2 {
+  position: relative;
+  height: 100%;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%);
+  animation: progress-animation2 5s infinite;
+  border-radius: 6px;
+}
+
+@keyframes progress-animation2 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+
+.container3 {
+  height: 25px;
+  background: transparent;
+  position: relative;
+  margin-bottom: 5%;
+  border-radius: 6px;
+}
+.progress-bar3 {
+  position: relative;
+  height: 100%;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%);
+  animation: progress-animation3 5s infinite;
+  border-radius: 6px;
+}
+
+@keyframes progress-animation3 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 40%;
+  }
+}
+
+.container4 {
+  height: 25px;
+  background: transparent;
+  position: relative;
+  margin-bottom: 5%;
+  border-radius: 6px;
+}
+.progress-bar4 {
+  position: relative;
+  height: 100%;
+  background: linear-gradient(90deg, #1488cc 0%, #2b32b2 100%);
+  animation: progress-animation4 5s infinite;
+  border-radius: 6px;
+}
+
+@keyframes progress-animation4 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 60%;
+  }
+}
+.txtbranco {
+  color: white;
+  text-align: right;
+}
+
+.sizebox {
+  width: 120px;
+}
+
+.sizebox2 {
+  width: 300px;
+}
+
+.centralized{
+  display: block;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+
+
+}
+

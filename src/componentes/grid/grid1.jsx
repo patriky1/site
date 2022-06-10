@@ -24,18 +24,16 @@ export function GridPerfil() {
               and efficient code.<br></br>
             </p>
             <p className="textobranco mt-5">
-              My market experience combined with my professional networking <br></br>can
-              help you solve your problems in the digital environment,<br></br> whatever
-              your demand
+              My market experience combined with my professional networking{" "}
+              <br></br>can help you solve your problems in the digital
+              environment,<br></br> whatever your demand
             </p>
-            
           </Col>
         </Row>
       </Container>
     </>
   );
 }
-
 export function GridCarousel() {
   return (
     <>
@@ -129,16 +127,15 @@ export function GridSkills() {
               </Col>
             </Row>
           </Col>
-          
-            <Col lg={5} >
-              <CarouNuka />
-            </Col>
+
+          <Col lg={5}>
+            <CarouNuka />
+          </Col>
         </Row>
       </Container>
     </>
   );
 }
-
 
 export function GridEducation() {
   return (

@@ -102,7 +102,7 @@ export function GridSkills() {
 
             <Row className="margens">
               <Col lg={2} className="sizebox">
-                <p className="nomecurso"> REACT</p>
+                <p className="nomecurso">REACT</p>
               </Col>
               <Col lg={9}>
                 <div className="container3">
@@ -136,7 +136,6 @@ export function GridSkills() {
     </>
   );
 }
-
 export function GridEducation() {
   return (
     <>

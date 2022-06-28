@@ -17,16 +17,15 @@ export function GridPerfil() {
           </Col>
           <Col lg={6}>
             <h2 className="textobranco">
-              I'm <span className="textoamarelo">Patriky</span>
+              Eu sou <span className="textoamarelo">Patriky</span>
             </h2>
             <p className="textobranco">
-              Front End Developer who focuses <br></br>on writing clean, elegant
-              and efficient code.<br></br>
+              Desenvolvedor Front-End com foco em escrever código limpo,
+              elegante e eficiente.<br></br>
             </p>
             <p className="textobranco mt-5">
-              My market experience combined with my professional networking{" "}
-              <br></br>can help you solve your problems in the digital
-              environment,<br></br> whatever your demand
+              Minha experiência de mercado aliada ao meu networking profissional{" "}
+              <br></br>pode lhe ajudar a resolver seus problemas no ambiente digital,<br></br> seja qual for sua demanda.
             </p>
           </Col>
         </Row>
@@ -61,7 +60,7 @@ export function GridSkills() {
           <Col lg={6}>
             <Row className="margens">
               <Col lg={2} className="sizebox">
-                <p className="nomecurso"> HTML </p>
+                <p className="nomecurso"> HTML</p>
               </Col>
               <Col lg={9}>
                 <div className="container1">

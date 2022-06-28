@@ -61,7 +61,7 @@ export function GridSkills() {
           <Col lg={6}>
             <Row className="margens">
               <Col lg={2} className="sizebox">
-                <p className="nomecurso"> html</p>
+                <p className="nomecurso"> HTML </p>
               </Col>
               <Col lg={9}>
                 <div className="container1">

@@ -1,8 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Imggrid from "./imagem_grid/perfil.png";
-// import Imggrid1 from "./imagem_grid/Frame.png";
-
 import "./grid.css";
 import Carrossel from "../carrossel/carrossel";
 import CarouNuka from "../carousel2/carousel2";

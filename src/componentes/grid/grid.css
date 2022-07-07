@@ -89,6 +89,14 @@
   color: white;
   margin-bottom: 2%;
 }
+@media screen and (max-width: 680px) {
+  .textobranco{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  } }
 .margemgeral{
   height: 100vh;
   display: flex;

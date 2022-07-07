@@ -47,7 +47,10 @@ export function GridCarousel() {
             difícil do meu trabalho é entender as pessoas, e essa é a parte que
             importa no final. Um outro fato sobre mim é que estou sempre
             engajado no fortalecimento da comunidade de Desenvolvedores e
-            Design, participando e oraganizando eventos.
+            Design, Na busca de aprimorar meu trabalho, estou sempre em busca de
+            adquirir mais conhecimento, atrelando as práticas com o bom diálogo
+            e troca de experiências com outros designers e profissionais da
+            área.
           </p>
         </Row>
       </Container>
@@ -55,13 +58,13 @@ export function GridCarousel() {
         <Row className="margens">
           <h2 className="textstyle sizebox2"> Minha Trajetória</h2>
           <p className="title titulo">
-            Me graduei na area de Redes de Computadores, porém encontrei minha
+            Me graduei na Área de Redes de Computadores, porém encontrei minha
             paixão no processo de design, especificamente no desenvolvimento de
             interfaces e gerenciamento de projetos. Como designer, passei por
             diferentes empresas/equipes e cargos, hoje me permito dizer que sou
             um profissional experiente com um background versátil em diferentes
-            áreas. Para acompanhar minha trajetória profissional. <br></br><br></br>Conecte-se
-            comigo no Linkedin.
+            áreas. Para acompanhar minha trajetória profissional. <br></br>
+            <br></br>Conecte-se comigo no Linkedin.
           </p>
         </Row>
       </Container>

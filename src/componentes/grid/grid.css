@@ -76,6 +76,9 @@
   margin: 5%;
   color: white;
 }
+.txt{
+  color: yellow;
+}
 
 .textored {
   color: red;
@@ -211,7 +214,9 @@
 }
 .txtbranco {
   color: white;
-  text-align: right;
+  justify-content: center;
+  display: flex;
+
 }
 
 .sizebox {

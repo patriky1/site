@@ -17,15 +17,16 @@ export function GridPerfil() {
             <h2 className="textobranco">
               Eu sou <span className="textoamarelo">Patriky</span>
             </h2>
-            <p className="textobranco">
+            <h3 className=" title titulo mt-2">
               Desenvolvedor Front-End com foco em escrever código limpo,
               elegante e eficiente.<br></br>
-            </p>
-            <p className="textobranco mt-5">
-              Minha experiência de mercado aliada ao meu networking profissional{" "}
-              <br></br>pode lhe ajudar a resolver seus problemas no ambiente
-              digital,<br></br> seja qual for sua demanda.
-            </p>
+              <br></br>
+              </h3>
+              <h3 className=" title titulo">
+              Minha experiência de mercado aliada ao meu networking profissional
+              pode lhe ajudar a resolver seus problemas no ambiente
+              digital, seja qual for sua demanda.
+            </h3>
           </Col>
         </Row>
       </Container>
@@ -37,7 +38,7 @@ export function GridCarousel() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h2 className="textstyle sizebox2"> Sobre mim</h2>
+          <h2 className="textstyle sizebox2 txt"> Sobre mim</h2>
           <p className="title titulo">
             Olá! Sou o Patriky Brito, tenho 24 anos e sou UI/UX Designer e uma
             coisa que amo na vida é entregar experiências memoráveis. Trabalho
@@ -56,7 +57,7 @@ export function GridCarousel() {
       </Container>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h2 className="textstyle sizebox2"> Minha Trajetória</h2>
+          <h2 className="textstyle sizebox2 txt"> Minha Trajetória</h2>
           <p className="title titulo">
             Me graduei na Área de Redes de Computadores (UNIP), porém encontrei
             minha paixão no universo do design, especificamente no
@@ -75,7 +76,7 @@ export function GridCarousel() {
         </div>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h2 className="textstyle sizebox2"> Meus Projetos</h2>
+          <h2 className="textstyle sizebox2 txt"> Meus Projetos</h2>
           <Col className="centralized mt-5">
             <Carrossel />
           </Col>
@@ -90,7 +91,7 @@ export function GridSkills() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h1 className="textobranco"> Minhas habilidades</h1>{" "}
+          <h1 className=" sizebox2 txt"> Minhas habilidades</h1>{" "}
         </Row>
 
         <Row className="margens">

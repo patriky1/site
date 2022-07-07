@@ -227,9 +227,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-
-
-
 }
-
+.button3{
+  position: absolute;
+  margin-left: 5%;
+}

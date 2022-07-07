@@ -18,10 +18,10 @@ function Footer() {
             
           </Col>
           <Col lg={4}>
-               <a href="mailto: patrikybrito@gmail.com" className="marginl">  <EmailIcon/>
+               <a href="mailto: patrikybrito@gmail.com" className="marginl" target="blank">  <EmailIcon/>
              </a>
-              <a href="https://www.linkedin.com/in/patriky-brito/" className="marginl"> <Linkedinicone/> </a>
-              <a href="https://www.instagram.com/patrikybrito/" className="marginl"> <Instaicone/> </a>
+              <a href="https://www.linkedin.com/in/patriky-brito/" className="marginl" target="blank"> <Linkedinicone/> </a>
+              <a href="https://www.instagram.com/patrikybrito/" className="marginl" target="blank"> <Instaicone/> </a>
           </Col>
         </Row>
           <Col> <p className="colorbranco">© all rights reserved, 2022.</p></Col>

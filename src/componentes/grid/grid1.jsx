@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 import Imggrid from "./imagem_grid/perfil.png";
 import "./grid.css";
 import Carrossel from "../carrossel/carrossel";
@@ -58,16 +58,21 @@ export function GridCarousel() {
         <Row className="margens">
           <h2 className="textstyle sizebox2"> Minha Trajetória</h2>
           <p className="title titulo">
-            Me graduei na Área de Redes de Computadores, porém encontrei minha
-            paixão no processo de design, especificamente no desenvolvimento de
-            interfaces e gerenciamento de projetos. Como designer, passei por
-            diferentes empresas/equipes e cargos, hoje me permito dizer que sou
-            um profissional experiente com um background versátil em diferentes
-            áreas. Para acompanhar minha trajetória profissional. <br></br>
-            <br></br>Conecte-se comigo no Linkedin.
+            Me graduei na Área de Redes de Computadores (UNIP), porém encontrei
+            minha paixão no universo do design, especificamente no
+            desenvolvimento de interfaces e gerenciamento de projetos. Como
+            designer, passei por diferentes empresas/equipes e cargos, e hoje me
+            dou a liberdade de dizer que sou um profissional experiente, com um
+            background versátil em diferentes áreas. Para acompanhar minha
+            trajetória profissional, conecte-se comigo no LinkedIn.
           </p>
         </Row>
       </Container>
+      <div className="button3">
+        <Button href="https://www.linkedin.com/in/patriky-brito/" variant="primary"  target="blank" size="lg">
+          Linkedin
+        </Button>
+        </div>
       <Container fluid className="mt-5 ">
         <Row className="margens">
           <h2 className="textstyle sizebox2"> Meus Projetos</h2>

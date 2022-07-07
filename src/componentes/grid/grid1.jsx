@@ -91,7 +91,7 @@ export function GridSkills() {
               <Col lg={9}>
                 <div className="container2">
                   <div className="progress-bar2">
-                    <span className="txtbranco">50%</span>
+                    <span className="txtbranco">70%</span>
                   </div>
                 </div>
               </Col>
@@ -155,6 +155,17 @@ export function GridEducation() {
               Ensino médio Integrado ao Técnico em Informática Voltada para
               programação web e manutenção e suporte de equipamentos de
               informática.
+            </p>
+            <p className="title">
+             EXPERIÊNCIA PROFISSIONAL
+            </p>
+            <p className="texto">
+            IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA ESTATÍSTICA: 
+            Agente de pesquisa e e mapeamento na agência do IBGE em Sousa-PB, experiência com pesquisas econômicas
+            para área contábil e abordagem e comunicação nas pesquisas domiciliares.
+            </p>
+            <p className="texto">
+            LANEARTDESIGN: Designer de layout para Apps de diversas categorias como desenvolvedor e atualizador de desktop.
             </p>
           </Col>
         </Row>

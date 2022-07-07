@@ -50,10 +50,12 @@
 .title {
   font-size: 150%;
   text-align: left;
+  text-shadow: 0.1em 0.1em 0.2em black;
 }
 .texto {
   font-size: 100%;
   text-align: left;
+  text-shadow: 0.1em 0.1em 0.2em black;
 }
 @media screen and (max-width: 680px) {
   .title .texto{
@@ -148,7 +150,7 @@
     width: 0%;
   }
   100% {
-    width: 50%;
+    width: 70%;
   }
 }
 

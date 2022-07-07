@@ -52,6 +52,14 @@
   text-align: left;
   text-shadow: 0.1em 0.1em 0.2em black;
 }
+.titulo{
+  text-indent: 50px;
+  color: white;
+  text-align:justify;
+ 
+  display: flex;
+
+}
 .texto {
   font-size: 100%;
   text-align: left;

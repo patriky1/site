@@ -23,7 +23,8 @@ export function GridPerfil() {
             </p>
             <p className="textobranco mt-5">
               Minha experiência de mercado aliada ao meu networking profissional{" "}
-              <br></br>pode lhe ajudar a resolver seus problemas no ambiente digital,<br></br> seja qual for sua demanda.
+              <br></br>pode lhe ajudar a resolver seus problemas no ambiente
+              digital,<br></br> seja qual for sua demanda.
             </p>
           </Col>
         </Row>
@@ -36,7 +37,37 @@ export function GridCarousel() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h2 className="textstyle sizebox2"> My Projects</h2>
+          <h2 className="textstyle sizebox2"> Sobre mim</h2>
+          <p className="title titulo">
+            Olá! Sou o Patriky Brito, tenho 24 anos e sou UI/UX Designer e uma
+            coisa que amo na vida é entregar experiências memoráveis. Trabalho
+            como designer desde 2020, e ao longo da minha carreira, atuei até
+            como desenvolvedor front-end. Me considero um profissional bem
+            capacitado, versátil e ágil. No mais, costumo dizer que a parte mais
+            difícil do meu trabalho é entender as pessoas, e essa é a parte que
+            importa no final. Um outro fato sobre mim é que estou sempre
+            engajado no fortalecimento da comunidade de Desenvolvedores e
+            Design, participando e oraganizando eventos.
+          </p>
+        </Row>
+      </Container>
+      <Container fluid className="mt-5 ">
+        <Row className="margens">
+          <h2 className="textstyle sizebox2"> Minha Trajetória</h2>
+          <p className="title titulo">
+            Me graduei na area de Redes de Computadores, porém encontrei minha
+            paixão no processo de design, especificamente no desenvolvimento de
+            interfaces e gerenciamento de projetos. Como designer, passei por
+            diferentes empresas/equipes e cargos, hoje me permito dizer que sou
+            um profissional experiente com um background versátil em diferentes
+            áreas. Para acompanhar minha trajetória profissional. <br></br><br></br>Conecte-se
+            comigo no Linkedin.
+          </p>
+        </Row>
+      </Container>
+      <Container fluid className="mt-5 ">
+        <Row className="margens">
+          <h2 className="textstyle sizebox2"> Meus Projetos</h2>
           <Col className="centralized mt-5">
             <Carrossel />
           </Col>
@@ -51,7 +82,7 @@ export function GridSkills() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h1 className="textobranco"> My Skills</h1>{" "}
+          <h1 className="textobranco"> Minhas habilidades</h1>{" "}
         </Row>
 
         <Row className="margens">
@@ -156,16 +187,16 @@ export function GridEducation() {
               programação web e manutenção e suporte de equipamentos de
               informática.
             </p>
-            <p className="title">
-             EXPERIÊNCIA PROFISSIONAL
+            <p className="title">EXPERIÊNCIA PROFISSIONAL</p>
+            <p className="texto">
+              IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA ESTATÍSTICA: Agente de
+              pesquisa e e mapeamento na agência do IBGE em Sousa-PB,
+              experiência com pesquisas econômicas para área contábil e
+              abordagem e comunicação nas pesquisas domiciliares.
             </p>
             <p className="texto">
-            IBGE - INSTITUTO BRASILEIRO DE GEOGRAFIA ESTATÍSTICA: 
-            Agente de pesquisa e e mapeamento na agência do IBGE em Sousa-PB, experiência com pesquisas econômicas
-            para área contábil e abordagem e comunicação nas pesquisas domiciliares.
-            </p>
-            <p className="texto">
-            LANEARTDESIGN: Designer de layout para Apps de diversas categorias como desenvolvedor e atualizador de desktop.
+              LANEARTDESIGN: Designer de layout para Apps de diversas categorias
+              como desenvolvedor e atualizador de desktop.
             </p>
           </Col>
         </Row>

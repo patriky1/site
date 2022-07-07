@@ -38,7 +38,7 @@ export function GridCarousel() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h2 className="textstyle sizebox2 txt"> Sobre mim</h2>
+          <h2 className="textstyle sizebox2 txt"> Sobre Mim</h2>
           <p className="title titulo">
             Olá! Sou o Patriky Brito, tenho 24 anos e sou UI/UX Designer e uma
             coisa que amo na vida é entregar experiências memoráveis. Trabalho

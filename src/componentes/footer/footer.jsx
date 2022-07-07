@@ -24,7 +24,7 @@ function Footer() {
               <a href="https://www.instagram.com/patrikybrito/" className="marginl" target="blank"> <Instaicone/> </a>
           </Col>
         </Row>
-          <Col> <p className="colorbranco">© all rights reserved, 2022.</p></Col>
+          <Col> <p className="colorbranco mt-5">© all rights reserved, 2022.</p></Col>
         <Row>
         </Row>
       </Container>

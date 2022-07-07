@@ -12,7 +12,7 @@ function Footer() {
     <>
       <Container fluid className="mt-5">
         <Row>
-          <Col lg={8} className="mobileresize mt-5">
+          <Col lg={8} className="mobileresize">
             
               <img className="imagemlogo" src={Logo} alt="..."/>
             

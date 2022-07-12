@@ -13,7 +13,7 @@ export function GridPerfil() {
           <Col lg={6} className="grid">
             <img className="imagemgrid" src={Imggrid} alt="..." />
           </Col>
-          <Col lg={4}>
+          <Col lg={6}>
             <h2 className="textobranco">
               Eu sou <span className="textoamarelo">Patriky</span>
             </h2>

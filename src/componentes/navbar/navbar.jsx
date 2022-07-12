@@ -13,7 +13,7 @@ function Menu() {
               Portifólio
             </a>
             <a className="item" href="#education">
-              Education
+              Formação
             </a>
             <a className="item" href="mailto:patrikybrito@gmail.com">
               Contato

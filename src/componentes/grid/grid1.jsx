@@ -91,7 +91,7 @@ export function GridSkills() {
     <>
       <Container fluid className="mt-5 ">
         <Row className="margens">
-          <h1 className=" sizebox2 txt"> Minhas habilidades</h1>{" "}
+          <h1 className=" txt"> Minhas habilidades</h1>{" "}
         </Row>
 
         <Row className="margens">

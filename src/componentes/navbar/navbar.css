@@ -1,6 +1,6 @@
 .logoimage {
   margin-top: 2%;
-  margin-left: 5%;
+  margin-left: 9%;
 
   overflow: visible;
   
@@ -58,3 +58,12 @@
   justify-content: flex-start;
 }
 }
+
+@media screen and (max-width: 680px) {
+  .colapse{ 
+    margin-top: -10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  }

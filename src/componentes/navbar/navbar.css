@@ -15,7 +15,7 @@
 }
 @media screen and (max-width: 680px) {
   .logocontainer .logoimage { 
-    margin-top: -140px;
+    margin-top: -150px;
     margin-left: 5%;
     overflow: visible;
     width:100px;
@@ -37,9 +37,6 @@
   border-bottom: 2px solid rgb(255, 0, 0) !important;
   transition-duration: 1s;
 }
-
-
-
 .bgcolorintem{
   background-color: transparent;
 }

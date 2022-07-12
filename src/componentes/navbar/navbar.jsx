@@ -19,7 +19,7 @@ function Menu() {
               Contato
             </a>
           </Col>
-          <Col lg={7} className="p-0 logocontainer mobileresize">
+          <Col lg={7} className="logocontainer mobileresize">
             <img className="logoimage" src={Logo} alt="logo" />
           </Col>
         </Row>

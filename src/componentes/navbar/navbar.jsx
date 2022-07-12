@@ -8,7 +8,7 @@ function Menu() {
     <>
       <Container fluid className="bgcolorintem">
         <Row className="colapse" lg={6}>
-          <Col className="itens" lg={5}>
+          <Col className="itens mt-5" lg={5}>
             <a className="item" href="#portfolio">
               Portifólio
             </a>

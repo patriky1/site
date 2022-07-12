@@ -114,6 +114,10 @@
   align-items: center;
 
 }
+@media screen and (max-width: 680px) {
+  .margemgeral{
+    margin-top: -10%;
+  } }
 .nomecurso {
   color: white;
   margin-bottom: 15%;
